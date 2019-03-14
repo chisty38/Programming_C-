@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainulHaque_Comp212_Assignment_04_Ex_01", "MainulHaque_Comp212_Assignment_04\MainulHaque_Comp212_Assignment_04_Ex_01.csproj", "{BA0AC984-1E8E-410D-86CA-250530EF2E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainulHaque_Comp212_Assignment_04_Ex_02", "Ex-02\MainulHaque_Comp212_Assignment_04_Ex_02.csproj", "{6705237B-FF1B-4306-8F5E-EE47EDCB49C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0AC984-1E8E-410D-86CA-250530EF2E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0AC984-1E8E-410D-86CA-250530EF2E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0AC984-1E8E-410D-86CA-250530EF2E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0AC984-1E8E-410D-86CA-250530EF2E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6705237B-FF1B-4306-8F5E-EE47EDCB49C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705237B-FF1B-4306-8F5E-EE47EDCB49C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6705237B-FF1B-4306-8F5E-EE47EDCB49C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6705237B-FF1B-4306-8F5E-EE47EDCB49C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521BED55-508D-49ED-B0F9-6EC65D05E7DD}
+	EndGlobalSection
+EndGlobal

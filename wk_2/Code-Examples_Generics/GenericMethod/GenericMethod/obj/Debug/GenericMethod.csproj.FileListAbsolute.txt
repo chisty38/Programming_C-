@@ -1,0 +1,10 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\GenericMethod\GenericMethod\bin\Debug\GenericMethod.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\GenericMethod\GenericMethod\obj\Debug\GenericMethod.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\GenericMethod\GenericMethod\obj\Debug\GenericMethod.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\GenericMethod\GenericMethod\obj\Debug\GenericMethod.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Generics\GenericMethod\GenericMethod\obj\Debug\GenericMethod.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Generics\GenericMethod\GenericMethod\obj\Debug\GenericMethod.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Generics\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Generics\GenericMethod\GenericMethod\bin\Debug\GenericMethod.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Generics\GenericMethod\GenericMethod\obj\Debug\GenericMethod.csprojResolveAssemblyReference.cache

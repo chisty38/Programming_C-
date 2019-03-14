@@ -1,0 +1,10 @@
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.deps.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.runtimeconfig.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.runtimeconfig.dev.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.dll
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.pdb
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.csproj.CoreCompileInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.AssemblyInfoInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.AssemblyInfo.cs
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.dll
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.pdb

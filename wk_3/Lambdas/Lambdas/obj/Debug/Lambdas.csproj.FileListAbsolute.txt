@@ -1,0 +1,12 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\bin\Debug\Lambdas.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\obj\Debug\Lambdas.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\obj\Debug\Lambdas.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Lambdas\Lambdas\obj\Debug\Lambdas.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\obj\Debug\Lambdas.exe
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\obj\Debug\Lambdas.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\bin\Debug\Lambdas.exe
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Lambdas\Lambdas\obj\Debug\Lambdas.csprojResolveAssemblyReference.cache

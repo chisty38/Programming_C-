@@ -1,0 +1,11 @@
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp2.0\LambdaExpressions.deps.json
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp2.0\LambdaExpressions.runtimeconfig.json
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp2.0\LambdaExpressions.runtimeconfig.dev.json
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp2.0\LambdaExpressions.dll
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp2.0\LambdaExpressions.pdb
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.csprojResolveAssemblyReference.cache
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.AssemblyInfo.cs
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.dll
+C:\A-Teaching\Centennial\FALL2018\Code Examples\Chapter 8\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp2.0\LambdaExpressions.pdb

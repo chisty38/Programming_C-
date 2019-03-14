@@ -1,0 +1,13 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\wk_3\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache

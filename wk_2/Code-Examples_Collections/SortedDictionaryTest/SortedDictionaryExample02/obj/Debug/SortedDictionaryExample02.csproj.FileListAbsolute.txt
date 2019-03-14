@@ -1,0 +1,9 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\bin\Debug\SortedDictionaryExample02.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\bin\Debug\SortedDictionaryExample02.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\bin\Debug\SortedDictionaryExample02.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\obj\Debug\SortedDictionaryExample02.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\obj\Debug\SortedDictionaryExample02.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\SortedDictionaryTest\SortedDictionaryExample02\obj\Debug\SortedDictionaryExample02.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\SortedDictionaryTest\SortedDictionaryExample02\bin\Debug\SortedDictionaryExample02.exe.config
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\SortedDictionaryTest\SortedDictionaryExample02\obj\Debug\SortedDictionaryExample02.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\SortedDictionaryTest\SortedDictionaryExample02\obj\Debug\SortedDictionaryExample02.pdb

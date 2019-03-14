@@ -1,0 +1,18 @@
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.exe.config
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.exe
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.pdb
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.csprojResolveAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.Form1.resources
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.Properties.Resources.resources
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.csproj.GenerateResource.Cache
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.exe
+D:\semester_6\prgm_3_comp_212\Assign\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.pdb
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.exe.config
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.exe
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.pdb
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.csprojResolveAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.Form1.resources
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.Properties.Resources.resources
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\obj\Debug\Mainul_Haque_Lab03_Ex1.csproj.GenerateResource.Cache
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.exe
+D:\semester_6\prgm_3_comp_212\Assign\New folder\Mainul_Haque_Lab03_Ex1\Mainul_Haque_Lab03_Ex1\bin\Debug\Mainul_Haque_Lab03_Ex1.pdb

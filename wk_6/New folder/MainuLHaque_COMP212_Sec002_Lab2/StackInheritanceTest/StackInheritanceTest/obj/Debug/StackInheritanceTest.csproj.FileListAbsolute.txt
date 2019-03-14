@@ -1,0 +1,19 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+D:\semester_6\prgm_3_comp_212\wk_04\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.pdb
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.dll
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedistLibrary.pdb
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.pdb
+D:\semester_6\prgm_3_comp_212\MainuLHaque_COMP212_Sec002_Lab2\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csprojResolveAssemblyReference.cache

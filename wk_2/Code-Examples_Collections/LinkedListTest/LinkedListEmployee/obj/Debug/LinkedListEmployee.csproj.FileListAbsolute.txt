@@ -1,0 +1,6 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\bin\Debug\LinkedListEmployee.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\bin\Debug\LinkedListEmployee.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\bin\Debug\LinkedListEmployee.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\obj\Debug\LinkedListEmployee.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\obj\Debug\LinkedListEmployee.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\LinkedListTest\LinkedListEmployee\obj\Debug\LinkedListEmployee.pdb

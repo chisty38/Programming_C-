@@ -1,0 +1,11 @@
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.pdb
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.csproj.CoreCompileInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\bin\Debug\LINQWithListCollection.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.csprojAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithListCollection\LINQWithListCollection\obj\Debug\LINQWithListCollection.csproj.CoreCompileInputs.cache

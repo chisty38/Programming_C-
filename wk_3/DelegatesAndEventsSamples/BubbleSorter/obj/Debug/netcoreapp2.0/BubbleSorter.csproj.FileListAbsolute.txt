@@ -1,0 +1,11 @@
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp2.0\BubbleSorter.deps.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp2.0\BubbleSorter.runtimeconfig.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp2.0\BubbleSorter.runtimeconfig.dev.json
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp2.0\BubbleSorter.dll
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp2.0\BubbleSorter.pdb
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.csprojAssemblyReference.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.csproj.CoreCompileInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.AssemblyInfoInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.AssemblyInfo.cs
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.dll
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\Chapter 8\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp2.0\BubbleSorter.pdb

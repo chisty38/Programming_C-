@@ -1,0 +1,11 @@
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csprojAssemblyReference.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csproj.CoreCompileInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csprojResolveAssemblyReference.cache

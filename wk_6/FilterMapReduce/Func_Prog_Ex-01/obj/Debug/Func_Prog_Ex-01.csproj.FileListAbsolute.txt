@@ -1,0 +1,7 @@
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\bin\Debug\Func_Prog_Ex-01.exe.config
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\bin\Debug\Func_Prog_Ex-01.exe
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\bin\Debug\Func_Prog_Ex-01.pdb
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\obj\Debug\Func_Prog_Ex-01.csprojResolveAssemblyReference.cache
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\obj\Debug\Func_Prog_Ex-01.csproj.CoreCompileInputs.cache
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\obj\Debug\Func_Prog_Ex-01.exe
+C:\COMP212\Code-Examples_Ch21_002\FilterMapReduce\Func_Prog_Ex-01\obj\Debug\Func_Prog_Ex-01.pdb

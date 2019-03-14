@@ -1,0 +1,5 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Fig20_09\Stack\Stack\bin\Debug\Stack.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Fig20_09\Stack\Stack\bin\Debug\Stack.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Fig20_09\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Fig20_09\Stack\Stack\obj\Debug\Stack.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Fig20_09\Stack\Stack\obj\Debug\Stack.pdb

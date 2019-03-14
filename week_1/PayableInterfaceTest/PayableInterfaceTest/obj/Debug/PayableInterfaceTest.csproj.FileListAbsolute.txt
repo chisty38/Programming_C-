@@ -1,0 +1,11 @@
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.exe
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.pdb
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.csprojResolveAssemblyReference.cache
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.csproj.CoreCompileInputs.cache
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.exe
+C:\COMP212\Lab Exercise\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.exe
+D:\semester_6\prgm_3_comp_212\week_1\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.exe
+D:\semester_6\prgm_3_comp_212\week_1\PayableInterfaceTest\PayableInterfaceTest\bin\Debug\PayableInterfaceTest.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayableInterfaceTest\PayableInterfaceTest\obj\Debug\PayableInterfaceTest.csprojResolveAssemblyReference.cache

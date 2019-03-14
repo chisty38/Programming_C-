@@ -1,0 +1,5 @@
+C:\COMP212\CodeExamples\LinkedListLibrary\LinkedListLibrary\bin\Release\LinkedListLibrary.dll
+C:\COMP212\CodeExamples\LinkedListLibrary\LinkedListLibrary\bin\Release\LinkedListLibrary.pdb
+C:\COMP212\CodeExamples\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\COMP212\CodeExamples\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.dll
+C:\COMP212\CodeExamples\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.pdb

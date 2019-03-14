@@ -1,0 +1,12 @@
+E:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\bin\Debug\UsingArray.exe
+E:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\bin\Debug\UsingArray.pdb
+E:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\obj\Debug\UsingArray.csprojResolveAssemblyReference.cache
+E:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\obj\Debug\UsingArray.exe
+E:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\obj\Debug\UsingArray.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\obj\Debug\UsingArray.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch21\UsingArray\UsingArray\obj\Debug\UsingArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\UsingArray\UsingArray\obj\Debug\UsingArray.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\UsingArray\UsingArray\obj\Debug\UsingArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\UsingArray\UsingArray\bin\Debug\UsingArray.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\UsingArray\UsingArray\bin\Debug\UsingArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Code-Examples_Collections\UsingArray\UsingArray\obj\Debug\UsingArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\COMP212\Lab Exercise\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\COMP212\Lab Exercise\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\COMP212\Lab Exercise\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\COMP212\Lab Exercise\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\COMP212\Lab Exercise\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem_ex_1\PayrollSystem\obj\Debug\PayrollSystem.exe
+D:\semester_6\prgm_3_comp_212\week_1\PayrollSystem_ex_1\PayrollSystem\obj\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\Assign_1(a)\PayrollSystem_ex_1\PayrollSystem\obj\Debug\PayrollSystem.exe
+D:\semester_6\prgm_3_comp_212\week_1\Assign_1(a)\PayrollSystem_ex_1\PayrollSystem\obj\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\Assign_1(a)\PayrollSystem_ex_1\PayrollSystem\bin\Debug\PayrollSystem.exe
+D:\semester_6\prgm_3_comp_212\week_1\Assign_1(a)\PayrollSystem_ex_1\PayrollSystem\bin\Debug\PayrollSystem.pdb
+D:\semester_6\prgm_3_comp_212\week_1\Assign_1(a)\PayrollSystem_ex_1\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache

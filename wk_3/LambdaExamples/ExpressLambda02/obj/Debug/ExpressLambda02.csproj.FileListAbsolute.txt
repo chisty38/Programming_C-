@@ -1,0 +1,5 @@
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe.config
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.pdb
+C:\COMP212\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.exe
+C:\COMP212\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.pdb

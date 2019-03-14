@@ -1,0 +1,6 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\bin\Debug\Stack-NonGeneric.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\bin\Debug\Stack-NonGeneric.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\bin\Debug\Stack-NonGeneric.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\obj\Debug\Stack-NonGeneric.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\obj\Debug\Stack-NonGeneric.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Code-Examples_Ch20\Stack\Stack-NonGeneric\obj\Debug\Stack-NonGeneric.pdb

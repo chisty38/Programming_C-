@@ -1,0 +1,11 @@
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojAssemblyReference.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csproj.CoreCompileInputs.cache
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+L:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\LINQ\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojResolveAssemblyReference.cache

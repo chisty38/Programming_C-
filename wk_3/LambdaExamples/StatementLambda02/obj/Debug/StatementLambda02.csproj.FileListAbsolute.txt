@@ -1,0 +1,8 @@
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe.config
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.pdb
+C:\COMP212\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.exe
+C:\COMP212\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe.config
+D:\semester_6\prgm_3_comp_212\wk_3\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.exe
+D:\semester_6\prgm_3_comp_212\wk_3\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.pdb

@@ -1,0 +1,5 @@
+D:\semester_6\prgm_3_comp_212\wk_2\Assign_wk_2\Lab_assign_1(b)_MainulHaque\Ex_2\bin\Debug\Ex_2.exe.config
+D:\semester_6\prgm_3_comp_212\wk_2\Assign_wk_2\Lab_assign_1(b)_MainulHaque\Ex_2\obj\Debug\Ex_2.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Assign_wk_2\Lab_assign_1(b)_MainulHaque\Ex_2\obj\Debug\Ex_2.pdb
+D:\semester_6\prgm_3_comp_212\wk_2\Assign_wk_2\Lab_assign_1(b)_MainulHaque\Ex_2\bin\Debug\Ex_2.exe
+D:\semester_6\prgm_3_comp_212\wk_2\Assign_wk_2\Lab_assign_1(b)_MainulHaque\Ex_2\bin\Debug\Ex_2.pdb

@@ -1,0 +1,6 @@
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\bin\Debug\Example03.exe.config
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\bin\Debug\Example03.exe
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\bin\Debug\Example03.pdb
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\obj\Debug\AnonymousWithArgs.csprojResolveAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\obj\Debug\Example03.exe
+D:\semester_6\prgm_3_comp_212\wk_3\AnonymousMethodsExamples\Example03\obj\Debug\Example03.pdb

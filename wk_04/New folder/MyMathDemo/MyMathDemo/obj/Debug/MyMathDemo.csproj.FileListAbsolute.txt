@@ -1,0 +1,8 @@
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\bin\Debug\MyMathDemo.exe.config
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\bin\Debug\MyMathDemo.exe
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\bin\Debug\MyMathDemo.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\bin\Debug\mYMathLib.dll
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\bin\Debug\mYMathLib.pdb
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\obj\Debug\MyMathDemo.csprojResolveAssemblyReference.cache
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\obj\Debug\MyMathDemo.exe
+D:\semester_6\prgm_3_comp_212\wk_04\New folder\MyMathDemo\MyMathDemo\obj\Debug\MyMathDemo.pdb
